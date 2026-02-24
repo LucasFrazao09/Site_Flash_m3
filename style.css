@@ -1,0 +1,23 @@
+body {
+    background-color: #000000;
+    color: white;
+}
+
+img{
+    height: 300px;
+    border: 5px solid white;
+    border-radius: 15px;
+}
+
+h1{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20p;
+    background-color: rgba(255, 0, 0, 0.24);
+    color: #ffd9009a
+}
+
+footer p{
+
+    color: rgb(226, 139, 139);
+}
