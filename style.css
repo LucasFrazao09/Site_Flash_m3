@@ -1,6 +1,9 @@
 body {
     background-color: #000000;
     color: white;
+    background-image: url("assets/imagem_6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img{
@@ -19,5 +22,21 @@ h1{
 
 footer p{
 
-    color: rgb(226, 139, 139);
+    color: rgb(197, 195, 195);
+}
+
+header{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+div{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
